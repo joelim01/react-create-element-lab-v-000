@@ -8,7 +8,7 @@ const list = React.createElement('ul', {className: 'my-interests'},
     React.createElement('li', {}, 'Javascript'),
     React.createElement('li', {}, 'React'),
     React.createElement('li', {}, 'Movies'),
-    React.createElement('li', {}, 'Javascript')
+    React.createElement('li', {}, 'JavaScript')
   ])
 const meInReact = React.createElement('div', {className: 'me'}, [title, description, list]);
 
